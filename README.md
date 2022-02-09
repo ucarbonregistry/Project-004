@@ -8,7 +8,9 @@ thus reducing emissions from thermal sources connected to the project electricit
 
 Issuance Records
 Total Issued : 53166 CoUs Issued
+
 2020: 21830
+
 2121: 31336
 
 Currently active CoUs
