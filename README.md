@@ -7,6 +7,11 @@ generation of steam and power with utilization of recovered biogas (methane), th
 thus reducing emissions from thermal sources connected to the project electricity grid system.
 
 Issuance Records
+Total Issued : 53166 CoUs Issued
+2020: 21830
+2121: 31336
+
+Currently active CoUs
 Serial Number 0001-017826-021829-UCR-CoU-IN-004-01022020-31122020
 
 Vintage Year 2020
